@@ -7,3 +7,6 @@ updates:
   open-pull-requests-limit: 1
   assignees:
   - jsoehner
+  ignore:
+  - dependency-name: "torch"
+
