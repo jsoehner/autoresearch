@@ -21,3 +21,7 @@ dev/
 
 # Results file
 results.tsv
+
+# Local SBOM/CBOM artifacts and OS files
+.DS_Store
+oss/
